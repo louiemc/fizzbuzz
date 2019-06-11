@@ -14,10 +14,10 @@ Remember to be dry when doing FizzBuzz
 Step 1: Set up your JS file
 ![fizzbuzz1](./images/fizzbuzz1.png)
 Step 2: 
-![fizzbuzz2]("./images/fizzbuzz2.png")
+![fizzbuzz2](./images/fizzbuzz2.png)
 Step 3: 
-![fizzbuzz2]("./images/fizzbuzz3.png")
+![fizzbuzz2](./images/fizzbuzz3.png)
 Step 4: 
-![fizzbuzz2]("./images/fizzbuzz4.png")
+![fizzbuzz2](./images/fizzbuzz4.png)
 Step 5: 
-![fizzbuzz2]("./images/fizzbuzz5.png")
+![fizzbuzz2](./images/fizzbuzz5.png)
