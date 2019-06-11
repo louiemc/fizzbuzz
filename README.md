@@ -13,9 +13,9 @@ Remember to be dry when doing FizzBuzz
 ## I will be doing this in the console, so please look at the gifs below!
 Step 1: Set up your JS file
 ![fizzbuzz1](./images/fizzbuzz1.png)
-Step 2: 
+Step 2: Use if/else if/ else statement to work through conditional statements
 ![fizzbuzz2](./images/fizzbuzz2.png)
-Step 3: 
+Step 3: Reorganize your statements! the most strict conditional needs to go first!
 ![fizzbuzz2](./images/fizzbuzz3.png)
 Step 4: 
 ![fizzbuzz2](./images/fizzbuzz4.png)
