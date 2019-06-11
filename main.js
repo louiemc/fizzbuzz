@@ -6,8 +6,8 @@ let i = 1;
 // it would be annoying to go through all of the code
 // and if this were a bigger project it would take a long time to go through every single line
 // so, let's make them variables!
-let x = 4;
-let y = 9;
+let x = 3;
+let y = 5;
 
 // use a while loop with a conditional statement of i < 100
 while (i < 101) {
