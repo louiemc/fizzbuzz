@@ -19,5 +19,6 @@ Step 3: Reorganize your statements! the most strict conditional needs to go firs
 ![fizzbuzz2](./images/fizzbuzz3.png)
 Step 3A: Here is the console showing that after reorganizing FizzBuzz is showing
 ![fizzbuzz2](./images/fizzbuzz4.png)
+<br>
 Step 5: Declare variables to hold the values of 3 and 5; this is just a 'if you ever need to change the values in the future' step; also, not hard codinging the values in line with the code, this will make changing the code more annoying and time consuming to fix
 ![fizzbuzz2](./images/fizzbuzz5.png)
