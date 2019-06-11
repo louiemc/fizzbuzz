@@ -2,8 +2,20 @@
 let i = 1;
 // use a while loop with a conditional statement of i < 100
 while (i < 101) {
-  // you want to see the numbers in the console
-  console.log(i);
-  // but i will always be less than 100 so you need to increment it
+
+  if (i%3 === 0) {
+    console.log("Fizz");
+  }
+  else if (i%5 === 0) {
+    console.log("Buzz");
+  }
+  else if (i%3 === 0 && i%5 === 0) {
+    console.log("FizzBuzz");
+  }
+  else {
+    // moved the console.log(i) here because we want to print the numbers that don't produce Fizz, Buzz, or FizzBuzz
+    console.log(i);
+  }
+  // after the if, else if, and else run we want to increment the numbers when the whilel loop runs again
   i++;
 }
