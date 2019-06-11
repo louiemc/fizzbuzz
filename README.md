@@ -13,15 +13,15 @@ Remember to be dry when doing FizzBuzz
 ## I will be doing this in the console, so please look at the gifs below!
 Step 1: Set up your JS file; get all 1-100 showing in your console
 ![fizzbuzz1](./images/fizzbuzz1.png)
+Here you can see that all of the number 1 to 100 are showing in the console
 ![fizzbuzz1Gif](https://media.giphy.com/media/1rRk9VpVwxSKJ8nfmU/giphy.gif)
 
-Here you can see that all of the number 1 to 100 are showing in the console
 
 Step 2: Use if/else if/ else statement to work through conditional statements
 ![fizzbuzz2](./images/fizzbuzz2.png)
+Here you can see that all of the words 'Fizz' and 'Buzz' are showing up, but not 'FizzBuzz'
 ![fizzbuzz2Gif](https://media.giphy.com/media/2yvoQ6Hj8RBRnpK5Up/giphy.gif)
 
-Here you can see that all of the words 'Fizz' and 'Buzz' are showing up, but not 'FizzBuzz'
 
 Step 3: Reorganize your statements! the most strict conditional needs to go first!
 ![fizzbuzz2](./images/fizzbuzz3.png)
