@@ -9,3 +9,5 @@ FizzBuzz is a simple programming task.
 
 ## DRY
 Remember to be dry when doing FizzBuzz
+
+## I will be doing this in the console, so please look at the gifs below!
