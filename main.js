@@ -2,15 +2,15 @@
 let i = 1;
 // use a while loop with a conditional statement of i < 100
 while (i < 101) {
-
-  if (i%3 === 0) {
-    console.log("Fizz");
+  // need to put this stricter condition first or else only the %3 and %5 will register 
+  if (i%3 === 0 && i%5 === 0) {
+    console.log("FizzBuzz");
   }
   else if (i%5 === 0) {
     console.log("Buzz");
   }
-  else if (i%3 === 0 && i%5 === 0) {
-    console.log("FizzBuzz");
+  else if (i%3 === 0) {
+    console.log("Fizz");
   }
   else {
     // moved the console.log(i) here because we want to print the numbers that don't produce Fizz, Buzz, or FizzBuzz
